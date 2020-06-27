@@ -529,7 +529,7 @@ section {
 }
 
 .section-bg {
-  background-color: #f3f8fa;
+  background-color: #DCDCDC;
 }
 
 .section-title {
@@ -667,51 +667,51 @@ section {
 }
 
 .services .icon-box-pink .icon {
-  background: #fceef3;
+  background: #f3f8fa;
 }
 
 .services .icon-box-pink .icon i {
-  color: #ff689b;
+  color: #000000;
 }
 
 .services .icon-box-pink:hover {
-  border-color: #ff689b;
+  border-color: #000000;
 }
 
 .services .icon-box-cyan .icon {
-  background: #e6fdfc;
+  background: #f3f8fa;
 }
 
 .services .icon-box-cyan .icon i {
-  color: #3fcdc7;
+  color: #000000;
 }
 
 .services .icon-box-cyan:hover {
-  border-color: #3fcdc7;
+  border-color: #000000;
 }
 
 .services .icon-box-green .icon {
-  background: #eafde7;
+  background: #f3f8fa;
 }
 
 .services .icon-box-green .icon i {
-  color: #41cf2e;
+  color: #000000;
 }
 
 .services .icon-box-green:hover {
-  border-color: #41cf2e;
+  border-color: #000000;
 }
 
 .services .icon-box-blue .icon {
-  background: #e1eeff;
+  background: #f3f8fa;
 }
 
 .services .icon-box-blue .icon i {
-  color: #2282ff;
+  color: #000000;
 }
 
 .services .icon-box-blue:hover {
-  border-color: #2282ff;
+  border-color: #000000;
 }
 
 /*--------------------------------------------------------------
@@ -942,7 +942,7 @@ section {
 .facts .counters span {
   font-size: 48px;
   display: block;
-  color: #68A4C4;
+  color: #000000;
 }
 
 .facts .counters p {
@@ -1151,7 +1151,7 @@ section {
 .pricing .box {
   padding: 40px;
   margin-bottom: 30px;
-  box-shadow: 0px 0px 30px rgba(73, 78, 92, 0.15);
+  box-shadow: 0px 0px 30px rgba(138, 139, 143, 0.15);
   background: #fff;
   text-align: center;
 }
@@ -1164,7 +1164,7 @@ section {
 
 .pricing h4 {
   font-size: 46px;
-  color: #68A4C4;
+  color: #000000;
   font-weight: 400;
   font-family: "Open Sans", sans-serif;
   margin-bottom: 25px;
@@ -1207,7 +1207,7 @@ section {
 }
 
 .pricing .get-started-btn {
-  background: #1e4356;
+  background: #000000;
   display: inline-block;
   padding: 6px 30px;
   border-radius: 20px;
@@ -1220,7 +1220,7 @@ section {
 }
 
 .pricing .get-started-btn:hover {
-  background: #68A4C4;
+  background: #808080;
 }
 
 .pricing .featured {
@@ -2183,9 +2183,9 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: #0b212d;
+  background: #000000;
   padding: 0 0 30px 0;
-  color: #fff;
+  color: #000000;
   font-size: 14px;
 }
 
@@ -2238,9 +2238,9 @@ section {
 }
 
 #footer .footer-top {
-  background: #0d2735;
-  border-top: 1px solid #17455e;
-  border-bottom: 1px solid #123649;
+  background: #fff;
+  border-top: 1px solid #000000;
+  border-bottom: 1px solid #000000;
   padding: 60px 0 30px 0;
 }
 
@@ -2253,7 +2253,7 @@ section {
   margin: 0 0 20px 0;
   padding: 2px 0 2px 0;
   line-height: 1;
-  color: #a2cce3;
+  color: #000000;
   font-weight: 600;
 }
 
@@ -2262,13 +2262,13 @@ section {
   line-height: 24px;
   margin-bottom: 0;
   font-family: "Roboto", sans-serif;
-  color: #fff;
+  color: #000000;
 }
 
 #footer .footer-top .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #1e4356;
+  background: #000000;
   color: #fff;
   line-height: 1;
   padding: 8px 0;
@@ -2281,7 +2281,7 @@ section {
 }
 
 #footer .footer-top .social-links a:hover {
-  background: #68A4C4;
+  background: #808080;
   color: #fff;
   text-decoration: none;
 }
@@ -2289,7 +2289,7 @@ section {
 #footer .footer-top h4 {
   font-size: 18px;
   font-weight: 600;
-  color: #a2cce3;
+  color: #000000;
   position: relative;
   padding-bottom: 12px;
 }
@@ -2343,15 +2343,16 @@ section {
 #footer .copyright {
   text-align: center;
   padding-top: 30px;
+  color: #fff;
 }
 
 #footer .credits {
   padding-top: 10px;
   text-align: center;
   font-size: 13px;
-  color: #fff;
+  color: #808080;
 }
 
 #footer .credits a {
-  color: #a2cce3;
+  color: #808080;
 }
